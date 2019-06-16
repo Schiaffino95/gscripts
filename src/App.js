@@ -1,5 +1,4 @@
-
-//This is a file modification
+//Core File
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
