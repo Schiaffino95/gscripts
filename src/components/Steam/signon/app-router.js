@@ -6,7 +6,7 @@ var express = require('express')
   , passport = require('passport')
   , util = require('util')
   , session = require('express-session')
-  , SteamStrategy = require('../../').Strategy
+  , SteamStrategy = require('../../../../passport-steam/lib/passport-steam').Strategy
   , authRoutes = require('./routes/auth');
 
 // Passport session setup.
