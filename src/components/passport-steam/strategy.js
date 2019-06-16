@@ -1,4 +1,6 @@
-//Strategy File.
+/**
+ * Module dependencies.
+ */
 var util = require('util')
   , OpenIDStrategy = require('passport-openid').Strategy
   , SteamWebAPI = require('steam-web');
